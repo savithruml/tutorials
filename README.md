@@ -23,7 +23,7 @@ It leverages AWS's CloudFormation to launch the stack & takes approximately 30 m
 
 * Once you click on the button, you will be navigated to AWS CloudFormation page. Enter the parameters
 
-  ![launch-stack]({{https://github.com/savithruml/cloud-ops/blob/master/aws/cloudformation/openshift/images/1-initiate.jpg}})
+  ![launch-stack](https://github.com/savithruml/cloud-ops/blob/master/aws/cloudformation/openshift/images/1-initiate.jpg)
 
     **NOTE:** You can leave most of the parameters set to default
 
